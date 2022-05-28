@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = linpulgarin.16@gmail.com
+	name = lina pulgarin
